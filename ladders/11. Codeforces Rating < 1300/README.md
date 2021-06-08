@@ -5,16 +5,16 @@
 
 | Checkbox | ID  | Problem Name | Online Judge | Difficulty |
 |---|:---:|:---:|---|---|
-|<ul><li>- [ ] Done</li></ul>|1|[Young Physicist](http://codeforces.com/problemset/problem/69/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|2|[Beautiful Matrix](http://codeforces.com/problemset/problem/263/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|3|[Queue at the School](http://codeforces.com/problemset/problem/266/B)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|4|[Borze](http://codeforces.com/problemset/problem/32/B)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|5|[Beautiful Year](http://codeforces.com/problemset/problem/271/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|6|[Lights Out](http://codeforces.com/problemset/problem/275/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|7|[Word](http://codeforces.com/problemset/problem/59/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|8|[Word Capitalization](http://codeforces.com/problemset/problem/281/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|9|[Nearly Lucky Number](http://codeforces.com/problemset/problem/110/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|10|[Stones on the Table](http://codeforces.com/problemset/problem/266/A)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|1|[Young Physicist](http://codeforces.com/problemset/problem/69/A)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|2|[Beautiful Matrix](http://codeforces.com/problemset/problem/263/A)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|3|[Queue at the School](http://codeforces.com/problemset/problem/266/B)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|4|[Borze](http://codeforces.com/problemset/problem/32/B)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|5|[Beautiful Year](http://codeforces.com/problemset/problem/271/A)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|6|[Lights Out](http://codeforces.com/problemset/problem/275/A)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|7|[Word](http://codeforces.com/problemset/problem/59/A)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|8|[Word Capitalization](http://codeforces.com/problemset/problem/281/A)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|9|[Nearly Lucky Number](http://codeforces.com/problemset/problem/110/A)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|10|[Stones on the Table](http://codeforces.com/problemset/problem/266/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|11|[Panoramix's Prediction](http://codeforces.com/problemset/problem/80/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|12|[Ultra-Fast Mathematician](http://codeforces.com/problemset/problem/61/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|13|[Perfect Permutation](http://codeforces.com/problemset/problem/233/A)|Codeforces|1|
@@ -34,7 +34,7 @@
 |<ul><li>- [ ] Done</li></ul>|27|[Petya and Strings](http://codeforces.com/problemset/problem/112/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|28|[Team](http://codeforces.com/problemset/problem/231/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|29|[Bit++](http://codeforces.com/problemset/problem/282/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|30|[Effective Approach](http://codeforces.com/problemset/problem/227/B)|Codeforces|2|
+|<ul><li>- [x] Done</li></ul>|30|[Effective Approach](http://codeforces.com/problemset/problem/227/B)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|31|[Dima and Friends](http://codeforces.com/problemset/problem/272/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|32|[Jzzhu and Children](http://codeforces.com/problemset/problem/450/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|33|[Supercentral Point](http://codeforces.com/problemset/problem/165/A)|Codeforces|2|
