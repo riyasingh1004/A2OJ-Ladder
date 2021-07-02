@@ -15,25 +15,25 @@
 |<ul><li>- [x] Done</li></ul>|8|[Word Capitalization](http://codeforces.com/problemset/problem/281/A)|Codeforces|1|
 |<ul><li>- [x] Done</li></ul>|9|[Nearly Lucky Number](http://codeforces.com/problemset/problem/110/A)|Codeforces|1|
 |<ul><li>- [x] Done</li></ul>|10|[Stones on the Table](http://codeforces.com/problemset/problem/266/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|11|[Panoramix's Prediction](http://codeforces.com/problemset/problem/80/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|12|[Ultra-Fast Mathematician](http://codeforces.com/problemset/problem/61/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|13|[Perfect Permutation](http://codeforces.com/problemset/problem/233/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|14|[Arrival of the General](http://codeforces.com/problemset/problem/144/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|15|[Drinks](http://codeforces.com/problemset/problem/200/B)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|16|[Insomnia cure](http://codeforces.com/problemset/problem/148/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|17|[Cupboards](http://codeforces.com/problemset/problem/248/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|18|[I_love_\%username\%](http://codeforces.com/problemset/problem/155/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|19|[Tram](http://codeforces.com/problemset/problem/116/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|20|[Helpful Maths](http://codeforces.com/problemset/problem/339/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|21|[Is your horseshoe on the other hoof?](http://codeforces.com/problemset/problem/228/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|22|[Way Too Long Words](http://codeforces.com/problemset/problem/71/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|23|[Boy or Girl](http://codeforces.com/problemset/problem/236/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|24|[Amusing Joke](http://codeforces.com/problemset/problem/141/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|25|[Soft Drinking](http://codeforces.com/problemset/problem/151/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|26|[HQ9+](http://codeforces.com/problemset/problem/133/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|27|[Petya and Strings](http://codeforces.com/problemset/problem/112/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|28|[Team](http://codeforces.com/problemset/problem/231/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|29|[Bit++](http://codeforces.com/problemset/problem/282/A)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|11|[Panoramix's Prediction](http://codeforces.com/problemset/problem/80/A)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|12|[Ultra-Fast Mathematician](http://codeforces.com/problemset/problem/61/A)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|13|[Perfect Permutation](http://codeforces.com/problemset/problem/233/A)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|14|[Arrival of the General](http://codeforces.com/problemset/problem/144/A)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|15|[Drinks](http://codeforces.com/problemset/problem/200/B)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|16|[Insomnia cure](http://codeforces.com/problemset/problem/148/A)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|17|[Cupboards](http://codeforces.com/problemset/problem/248/A)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|18|[I_love_\%username\%](http://codeforces.com/problemset/problem/155/A)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|19|[Tram](http://codeforces.com/problemset/problem/116/A)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|20|[Helpful Maths](http://codeforces.com/problemset/problem/339/A)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|21|[Is your horseshoe on the other hoof?](http://codeforces.com/problemset/problem/228/A)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|22|[Way Too Long Words](http://codeforces.com/problemset/problem/71/A)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|23|[Boy or Girl](http://codeforces.com/problemset/problem/236/A)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|24|[Amusing Joke](http://codeforces.com/problemset/problem/141/A)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|25|[Soft Drinking](http://codeforces.com/problemset/problem/151/A)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|26|[HQ9+](http://codeforces.com/problemset/problem/133/A)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|27|[Petya and Strings](http://codeforces.com/problemset/problem/112/A)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|28|[Team](http://codeforces.com/problemset/problem/231/A)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|29|[Bit++](http://codeforces.com/problemset/problem/282/A)|Codeforces|1|
 |<ul><li>- [x] Done</li></ul>|30|[Effective Approach](http://codeforces.com/problemset/problem/227/B)|Codeforces|2|
 |<ul><li>- [x] Done</li></ul>|31|[Dima and Friends](http://codeforces.com/problemset/problem/272/A)|Codeforces|2|
 |<ul><li>- [x] Done</li></ul>|32|[Jzzhu and Children](http://codeforces.com/problemset/problem/450/A)|Codeforces|2|
@@ -67,11 +67,11 @@
 |<ul><li>- [x] Done</li></ul>|60|[DZY Loves Chessboard](http://codeforces.com/problemset/problem/445/A)|Codeforces|3|
 |<ul><li>- [x] Done</li></ul>|61|[Pashmak and Flowers](http://codeforces.com/problemset/problem/459/B)|Codeforces|3|
 |<ul><li>- [x] Done</li></ul>|62|[Jeff and Periods](http://codeforces.com/problemset/problem/352/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|63|[Little Girl and Game](http://codeforces.com/problemset/problem/276/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|64|[Sail](http://codeforces.com/problemset/problem/298/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|65|[Shower Line](http://codeforces.com/problemset/problem/431/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|66|[Shooshuns and Sequence ](http://codeforces.com/problemset/problem/222/A)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|67|[Xenia and Divisors](http://codeforces.com/problemset/problem/342/A)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|63|[Little Girl and Game](http://codeforces.com/problemset/problem/276/B)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|64|[Sail](http://codeforces.com/problemset/problem/298/B)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|65|[Shower Line](http://codeforces.com/problemset/problem/431/B)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|66|[Shooshuns and Sequence ](http://codeforces.com/problemset/problem/222/A)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|67|[Xenia and Divisors](http://codeforces.com/problemset/problem/342/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|68|[Letter](http://codeforces.com/problemset/problem/43/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|69|[Kitahara Haruki's Gift](http://codeforces.com/problemset/problem/433/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|70|[Comparing Strings](http://codeforces.com/problemset/problem/186/A)|Codeforces|3|
