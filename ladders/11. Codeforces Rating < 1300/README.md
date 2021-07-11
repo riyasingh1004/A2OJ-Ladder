@@ -80,13 +80,13 @@
 |<ul><li>- [x] Done</li></ul>|73|[Little Elephant and Bits](http://codeforces.com/problemset/problem/258/A)|Codeforces|3|
 |<ul><li>- [x] Done</li></ul>|74|[Yaroslav and Permutations](http://codeforces.com/problemset/problem/296/A)|Codeforces|3|
 |<ul><li>- [x] Done</li></ul>|75|[Fence](http://codeforces.com/problemset/problem/363/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|76|[TL](http://codeforces.com/problemset/problem/350/A)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|77|[Increase and Decrease](http://codeforces.com/problemset/problem/246/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|78|[Two Bags of Potatoes](http://codeforces.com/problemset/problem/239/A)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|79|[Unlucky Ticket](http://codeforces.com/problemset/problem/160/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|80|[Boys and Girls](http://codeforces.com/problemset/problem/253/A)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|81|[Easy Number Challenge](http://codeforces.com/problemset/problem/236/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|82|[Pythagorean Theorem II](http://codeforces.com/problemset/problem/304/A)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|76|[TL](http://codeforces.com/problemset/problem/350/A)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|77|[Increase and Decrease](http://codeforces.com/problemset/problem/246/B)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|78|[Two Bags of Potatoes](http://codeforces.com/problemset/problem/239/A)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|79|[Unlucky Ticket](http://codeforces.com/problemset/problem/160/B)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|80|[Boys and Girls](http://codeforces.com/problemset/problem/253/A)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|81|[Easy Number Challenge](http://codeforces.com/problemset/problem/236/B)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|82|[Pythagorean Theorem II](http://codeforces.com/problemset/problem/304/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|83|[Cards with Numbers](http://codeforces.com/problemset/problem/254/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|84|[Domino](http://codeforces.com/problemset/problem/353/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|85|[Cinema Line](http://codeforces.com/problemset/problem/349/A)|Codeforces|3|
